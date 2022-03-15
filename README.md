@@ -10,11 +10,12 @@ https://github.com/philliphelms/quimb/tree/refactor
 
 The quimb library has a number of dependencies that may need to be installed. 
 
-Additionally, you will need access to an implementation of pyblock3, which is the 
-library that handles the symmetric tensor operations that are required for use with quimb, 
-with documentation available here:
+Additionally, you will need pyblock3, which is the 
+library that handles the symmetric tensor operations 
+that are required for use with quimb, 
+with the library available here:
 
-https://pyblock3.readthedocs.io/en/latest/index.html
+https://github.com/block-hczhai/pyblock3-preview
 
 Additionally, you will need a working build of mpi4py. 
 
